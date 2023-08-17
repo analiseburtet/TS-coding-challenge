@@ -4,16 +4,16 @@ This is a basic product page, with a filter and a cart.
 
 ## How to run:
 
-`npm start``
+`npm start`
 
 ## How to run tests
 
-`npm test``
+`npm test`
 
 Goal:
 
-✅ Implement addToCart feature
-✅ Fix cartTotal calculation
-✅ Catch possible bugs 
-✅ Fix failing tests
+✅ Implement addToCart feature <br/>
+✅ Fix cartTotal calculation <br/>
+✅ Catch possible bugs <br/>
+✅ Fix failing tests <br/>
 ✅ Refactor as needed
